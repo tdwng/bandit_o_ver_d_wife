@@ -12,3 +12,6 @@ Sau đó, bằng **cat readme**, ta có thể đọc được nội dung trong f
 
 ![](image/bandit_1_pwd.png)
 
+Bạn có thể thấy mã ở dưới cùng : ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5IF 
+
+Đây chính là mã cần tìm của challenge bandit0.
