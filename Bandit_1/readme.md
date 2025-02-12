@@ -22,3 +22,4 @@ Và đây là kết quả :
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 ```
 
+Link bandit 2 : [Bandit 2](../Bandit_2)
