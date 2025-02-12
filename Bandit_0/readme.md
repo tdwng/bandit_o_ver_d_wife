@@ -15,3 +15,5 @@ Sau đó, bằng **cat readme**, ta có thể đọc được nội dung trong f
 Bạn có thể thấy mã ở dưới cùng : ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If  
 
 Đây chính là mã cần tìm của challenge bandit0.
+
+Link bandit 1 : [Bandit 1](../Bandit_1)
