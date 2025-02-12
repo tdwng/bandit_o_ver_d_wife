@@ -9,3 +9,5 @@ Kết quả cuối :
 ```
 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 ```
+
+Link bandit 5 : [Bandit 5](../Bandit_5)
