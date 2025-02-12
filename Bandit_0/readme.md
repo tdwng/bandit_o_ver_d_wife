@@ -11,3 +11,4 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 Sau đó, bằng **cat readme**, ta có thể đọc được nội dung trong file này.
 
 ![](image/bandit_1_pwd.png)
+
