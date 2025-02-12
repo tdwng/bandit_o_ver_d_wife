@@ -3,7 +3,7 @@
 Nếu ta thử các lệnh **cat ./-file00** cho đến **08**
 Thì kết quả sẽ như hình dưới :
 
-![](ok,png)
+![](ok.png)
 
 Kết quả cuối :
 ```
