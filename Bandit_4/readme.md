@@ -12,6 +12,11 @@ Kết quả cuối :
 Nhưng chúng ta có một cách làm khác :
 
 ```
-
+file ./*
 ```
+
+Lệnh này sẽ liệt kê loại nội dung của các file có trong thư mục hiện tại. Kết quả :
+
+![image](file.png)
+
 Link bandit 5 : [Bandit 5](../Bandit_5)
