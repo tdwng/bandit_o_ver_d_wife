@@ -1,5 +1,5 @@
-# BANDIT 34
+# BANDIT 3
 
 ## SOLVE
 
-- Unsolved
+- Ko có
